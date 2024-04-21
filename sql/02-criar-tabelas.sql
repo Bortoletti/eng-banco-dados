@@ -1,3 +1,9 @@
+
+-- conectar com usuario trabalho
+-- $ mysql -u trabalho -p
+
+-- executar o script com mysql> \. 02-criar-tabelas.sql
+
 use trabalho;
 
 create table estado(
